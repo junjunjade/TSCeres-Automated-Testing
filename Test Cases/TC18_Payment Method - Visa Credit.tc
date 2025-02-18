@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC18_Payment Method - Visa Credit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c53a056-037b-47b5-b69c-5ae18b1ebd31</testCaseGuid>
+</TestCaseEntity>

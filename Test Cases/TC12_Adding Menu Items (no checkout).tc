@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12_Adding Menu Items (no checkout)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e991b5bc-4956-40c3-8dc5-ab16156fdcad</testCaseGuid>
+</TestCaseEntity>

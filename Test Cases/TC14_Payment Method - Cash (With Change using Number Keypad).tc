@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC14_Payment Method - Cash (With Change using Number Keypad)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b451d2d-b687-459d-a189-ba6ead8ac616</testCaseGuid>
+</TestCaseEntity>

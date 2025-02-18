@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_View Terminal Report - Z Reading (EOD)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d6c60cd-69c6-48e1-b2a9-34d26dc9ad47</testCaseGuid>
+</TestCaseEntity>

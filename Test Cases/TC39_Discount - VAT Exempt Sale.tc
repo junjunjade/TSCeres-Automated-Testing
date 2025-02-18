@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC39_Discount - VAT Exempt Sale</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ca17acd-6bb2-49b2-82ff-eb40d9d82452</testCaseGuid>
+</TestCaseEntity>

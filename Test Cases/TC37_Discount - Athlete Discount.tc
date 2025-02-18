@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC37_Discount - Athlete Discount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7c5bb7d-edbe-4ab3-9fcc-55a6e717edbc</testCaseGuid>
+</TestCaseEntity>

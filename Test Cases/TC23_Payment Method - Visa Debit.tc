@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC23_Payment Method - Visa Debit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50ab5b3e-54e7-43a7-9849-43ce6214c80b</testCaseGuid>
+</TestCaseEntity>

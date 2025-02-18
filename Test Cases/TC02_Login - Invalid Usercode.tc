@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Login - Invalid Usercode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>303e95b9-395d-4339-a4d0-6b7da26fa9df</testCaseGuid>
+</TestCaseEntity>

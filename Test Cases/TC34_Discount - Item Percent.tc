@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC34_Discount - Item Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1118395a-9ea8-4a9e-beb3-1827d925b1f8</testCaseGuid>
+</TestCaseEntity>

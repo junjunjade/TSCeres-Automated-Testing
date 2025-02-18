@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC32_Discount - Subtotal Percent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d569580-a78e-4b97-982b-8019861f9bdc</testCaseGuid>
+</TestCaseEntity>

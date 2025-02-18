@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC38_Discount - Medal of Valor Discount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>84e820c5-ef60-4ce5-9ea8-bbed5564d1c2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC49_Resume Suspended Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb6c2d0a-e537-407a-9580-4afa29693f3e</testCaseGuid>
+</TestCaseEntity>

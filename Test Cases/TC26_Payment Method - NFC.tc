@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC26_Payment Method - NFC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99883c81-26eb-4549-aa5c-6ad11f9f62f3</testCaseGuid>
+</TestCaseEntity>

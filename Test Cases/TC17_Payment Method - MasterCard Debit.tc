@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC17_Payment Method - MasterCard Debit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7da8cdb9-31ce-46d6-a9c3-6ce21e14f97b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC30_Payment Method - AMEX</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4fb919ee-6ba3-4e6c-ae89-22215fc0ce72</testCaseGuid>
+</TestCaseEntity>

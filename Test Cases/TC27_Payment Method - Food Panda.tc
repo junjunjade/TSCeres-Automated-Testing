@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC27_Payment Method - Food Panda</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1fad3b45-4f7b-47bc-ae9d-adb6e7838755</testCaseGuid>
+</TestCaseEntity>

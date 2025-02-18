@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC28_Payment Method - Grab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>678971b6-1532-4ae0-a8e8-86a5b39aa242</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>to fix, cannot click on money images TC15_Payment Method - Cash (Using Money Image)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e831f23f-878b-4afd-b452-9d7fedcc3408</testCaseGuid>
+</TestCaseEntity>

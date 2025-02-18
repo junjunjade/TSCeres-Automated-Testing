@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC33_Discount - Item Amount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b993a22a-abb4-4a6d-89ed-e356baec4d48</testCaseGuid>
+</TestCaseEntity>

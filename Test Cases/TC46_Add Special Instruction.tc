@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC46_Add Special Instruction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f861c6aa-a386-4da5-9ea3-b3c68f66d428</testCaseGuid>
+</TestCaseEntity>

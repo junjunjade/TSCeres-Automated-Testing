@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC47_Remove Special Instruction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50ad5ff4-59a3-449b-a173-62058636cc9b</testCaseGuid>
+</TestCaseEntity>

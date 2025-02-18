@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC29_Payment Method - Mastercard Credit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2dd4e44-dc36-4121-a1d0-bfb49798d532</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC45_Remove Order Slip</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2b4610e-f1e3-4461-8977-1c07c83cb3cf</testCaseGuid>
+</TestCaseEntity>

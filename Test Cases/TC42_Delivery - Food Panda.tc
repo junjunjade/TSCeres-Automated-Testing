@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC42_Delivery - Food Panda</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb98ac77-d7dc-4c9f-9e4c-04ba54c079cb</testCaseGuid>
+</TestCaseEntity>

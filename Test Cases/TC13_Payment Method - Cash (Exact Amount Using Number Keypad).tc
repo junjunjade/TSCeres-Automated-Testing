@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13_Payment Method - Cash (Exact Amount Using Number Keypad)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0da078d6-a06e-4737-8d83-b465af69e473</testCaseGuid>
+</TestCaseEntity>
