@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.EditText - Usercode (1)</name>
+   <name>android.widget.Button - ADD (3)</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,8 +12,8 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>android.widget.EditText</value>
-      <webElementGuid>2c6cc004-3b39-465d-b67f-b8fa760228cc</webElementGuid>
+      <value>android.widget.Button</value>
+      <webElementGuid>2326abb3-03a3-4252-b277-bd96f7541ab7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,23 +21,23 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>662ad750-bc67-4273-9bd6-474979837212</webElementGuid>
+      <webElementGuid>b7ee65b8-6f18-44dc-972e-e895283bd6e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Usercode</value>
-      <webElementGuid>bfbc5610-c2c9-4424-9006-34e3b3e79364</webElementGuid>
+      <value>ADD</value>
+      <webElementGuid>e14db91c-7c27-4848-beb5-6f4601059819</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.jimac.tsceres_android:id/editTextUserName</value>
-      <webElementGuid>d3bc8210-3f52-4856-ab87-5e56750a97f9</webElementGuid>
+      <value>com.jimac.tsceres_android:id/btn_sysgrp_add</value>
+      <webElementGuid>7196260d-1ac7-4c60-a54f-008fd4fd24c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.jimac.tsceres_android</value>
-      <webElementGuid>d656e940-9551-422e-a0b1-8337d145e255</webElementGuid>
+      <webElementGuid>4b2de085-9bcf-4d90-b6ab-6b55fff42050</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1b8c70ae-9c19-4fbf-9e34-720a0ff428b6</webElementGuid>
+      <webElementGuid>abb836cc-11c2-49dd-bd5f-90b2ce2e2e13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b77f20f1-8a24-42f1-89ed-540f1f1b333a</webElementGuid>
+      <webElementGuid>ebc1a029-6e27-4cea-aa45-5541fcd25e34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>bf243a8f-f3bd-4062-803f-fa313350acf0</webElementGuid>
+      <webElementGuid>9f3919b0-ff56-4be3-b758-1d3bebb738c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>312f4ce3-26d0-4461-8acc-0516d2ecda67</webElementGuid>
+      <webElementGuid>d8a98ca2-edf0-4a8b-b942-93c95b1af5c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2e3b7932-53a5-4cfd-90db-9dc36a37c2ad</webElementGuid>
+      <webElementGuid>2d933568-bf1c-4682-94b1-61ee0bc8c470</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focused</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>69c59ad4-7a4a-4f21-8196-9e32186759b8</webElementGuid>
+      <value>false</value>
+      <webElementGuid>d0e63252-5c93-4520-9a5f-de9cc9c922a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,15 +101,15 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>dc5dc0f9-1970-4cce-bd33-62e37719ac15</webElementGuid>
+      <webElementGuid>365f46e3-d003-45f8-8628-9dbd508eba3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>long-clickable</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>5cb02312-839f-42be-aa9c-336c515b7105</webElementGuid>
+      <value>false</value>
+      <webElementGuid>667dd5e6-40eb-435e-be2a-258f7510ece7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3011628f-4747-4530-a348-308de5a63821</webElementGuid>
+      <webElementGuid>aa304a6e-972f-420c-b9b6-6284dc3ec272</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,47 +125,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>653d4372-5e39-447f-a5a3-91adefce05a9</webElementGuid>
+      <webElementGuid>1500a1a9-c561-466f-8375-1eaad1de9356</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>768</value>
-      <webElementGuid>34668cfb-01ac-41b9-bd2d-a49ee9ad59a4</webElementGuid>
+      <value>668</value>
+      <webElementGuid>13042537-776c-4b97-b378-aa918f8ef276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>161</value>
-      <webElementGuid>3d0e9278-78dc-4168-971b-4aec7798205f</webElementGuid>
+      <value>696</value>
+      <webElementGuid>6e6c492a-97ce-49ef-ab10-a26c6143126d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>444</value>
-      <webElementGuid>d7d2446a-0334-4812-a26a-62fe4def4d30</webElementGuid>
+      <value>88</value>
+      <webElementGuid>eec4d695-c48c-4afb-b847-449eb4c3fe72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>70</value>
-      <webElementGuid>15beda4c-4aca-49be-b04b-4a505439e8c0</webElementGuid>
+      <value>48</value>
+      <webElementGuid>fe30bd9e-3808-40dc-beb3-5d8442218f22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[768,161][1212,231]</value>
-      <webElementGuid>06389b3f-d95e-4dd0-9407-5617506e4ed4</webElementGuid>
+      <value>[668,696][756,744]</value>
+      <webElementGuid>d3ed44cc-e029-4163-9c5e-a76bdc9778ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,58 +173,65 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>24fce528-b5c4-4853-bf65-7887fe6098db</webElementGuid>
+      <webElementGuid>57a7f8c2-95ab-4525-a200-cfc55cadf2d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.EditText[1]</value>
-      <webElementGuid>40707c9d-f37e-4975-a26d-c1280c30f44d</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.widget.Button[1]</value>
+      <webElementGuid>8b5f0e5a-2442-480b-a8b9-036f24ae5a95</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.EditText' and (@text = 'Usercode' or . = 'Usercode') and @resource-id = 'com.jimac.tsceres_android:id/editTextUserName']</locator>
+   <locator>//*[@class = 'android.widget.Button' and (@text = 'ADD' or . = 'ADD') and @resource-id = 'com.jimac.tsceres_android:id/btn_sysgrp_add']</locator>
    <locatorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.EditText[1]</value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[1]/android.widget.Button[1]</value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.EditText' and (@text = 'Usercode' or . = 'Usercode') and @resource-id = 'com.jimac.tsceres_android:id/editTextUserName']</value>
+         <value>//*[@class = 'android.widget.Button' and (@text = 'ADD' or . = 'ADD') and @resource-id = 'com.jimac.tsceres_android:id/btn_sysgrp_add']</value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.EditText&quot;).text(&quot;Usercode&quot;).resourceId(&quot;com.jimac.tsceres_android:id/editTextUserName&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(true).checkable(false).checked(false).focusable(true).focused(true).scrollable(false).selected(false).index(0)</value>
+         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;ADD&quot;).resourceId(&quot;com.jimac.tsceres_android:id/btn_sysgrp_add&quot;).packageName(&quot;com.jimac.tsceres_android&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(0)</value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
+         <value></value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <value></value>
       </entry>
       <entry>
          <key>NAME</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
       </entry>
       <entry>
          <key>ID</key>
-         <value>com.jimac.tsceres_android:id/editTextUserName</value>
+         <value>com.jimac.tsceres_android:id/btn_sysgrp_add</value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
-         <value>android.widget.EditText</value>
+         <value>android.widget.Button</value>
       </entry>
       <entry>
          <key>IMAGE</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

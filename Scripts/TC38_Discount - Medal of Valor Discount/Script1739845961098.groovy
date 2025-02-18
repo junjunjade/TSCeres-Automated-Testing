@@ -29,7 +29,7 @@ Mobile.tap(findTestObject('Object Repository/android.widget.Button - BLACK COFFE
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - DISCOUNT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - NEXT'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - NEXT (1)'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - MEDAL OF VALOR'), 0)
 
@@ -39,7 +39,7 @@ Mobile.setText(findTestObject('Object Repository/android.widget.EditText - ID No
 
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText - TIN'), '7620293759144', 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - OK'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - OK (4)'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - PAYMENT'), 0)
 
