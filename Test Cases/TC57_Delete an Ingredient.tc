@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC57_Delete an Ingredient</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfa001ec-c678-4729-9d55-0d19c628de6d</testCaseGuid>
+</TestCaseEntity>

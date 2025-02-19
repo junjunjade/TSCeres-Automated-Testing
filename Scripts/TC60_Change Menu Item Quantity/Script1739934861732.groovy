@@ -19,23 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('C:\\Users\\Ritch\\Desktop\\Echo Test\\APKs\\TSCeres 2025\\16.0.0.0.40.91.apk', true)
 
-Mobile.setText(findTestObject('Object Repository/LoginScreen/android.widget.EditText - Usercode'), '000000', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Usercode (1)'), '000000', 0)
 
-Mobile.setEncryptedText(findTestObject('Object Repository/LoginScreen/android.widget.EditText - Password'), 'tzH6RvlfSTg=', 0)
+Mobile.setEncryptedText(findTestObject('Object Repository/android.widget.EditText - Password'), 'tzH6RvlfSTg=', 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - POS MAINTENANCE'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - POS'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - File Maintenance'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - BLACK COFFEE'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Department'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Black Coffee'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - ADD'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - CHANGE QUANTITY'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText'), 'Pasta', 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - SAVE'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - OK'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - 3'), 0)
 
 Mobile.closeApplication()
 

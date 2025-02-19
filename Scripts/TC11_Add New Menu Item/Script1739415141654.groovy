@@ -23,6 +23,8 @@ Mobile.setText(findTestObject('Object Repository/LoginScreen/android.widget.Edit
 
 Mobile.setEncryptedText(findTestObject('Object Repository/LoginScreen/android.widget.EditText - Password'), 'tzH6RvlfSTg=', 0)
 
+Mobile.pressBack()
+
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - POS MAINTENANCE'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.TextView - File Maintenance'), 0)
@@ -33,9 +35,9 @@ Mobile.tap(findTestObject('Object Repository/android.widget.Button - ADD (1)'), 
 
 Mobile.tap(findTestObject('Object Repository/android.widget.EditText (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Pasta'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Chicken'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (2)'), 'Carbonara', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText (2)'), 'Buffalo', 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.EditText (3)'), 0)
 

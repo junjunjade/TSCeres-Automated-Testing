@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC59_Delete a Unit of Measure</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6a19d69-7b44-4f43-81e4-58ecaf614c94</testCaseGuid>
+</TestCaseEntity>

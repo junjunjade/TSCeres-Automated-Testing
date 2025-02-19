@@ -35,7 +35,7 @@ Mobile.tap(findTestObject('Object Repository/android.widget.Button - ADD (2)'), 
 
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText - User Code'), '002', 0)
 
-Mobile.setEncryptedText(findTestObject('Object Repository/android.widget.EditText - Password'), 'tzH6RvlfSTg=', 0)
+Mobile.setEncryptedText(findTestObject('Object Repository/android.widget.EditText - Password (2)'), 'tzH6RvlfSTg=', 0)
 
 Mobile.setEncryptedText(findTestObject('Object Repository/android.widget.EditText - Confirm Password'), 'tzH6RvlfSTg=', 
     0)

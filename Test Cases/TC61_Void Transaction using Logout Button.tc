@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC61_Void Transaction using Logout Button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7dacdcb3-027e-4f29-a7fd-d1c59b572f29</testCaseGuid>
+</TestCaseEntity>

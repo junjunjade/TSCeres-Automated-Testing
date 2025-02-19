@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC55_Delete a Shift</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e46ddd5-d5e4-40d6-99b1-05243a2fa0c0</testCaseGuid>
+</TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC12_Adding Menu Items (no checkout)</name>
+   <name>TC54_Add a New Shift</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e991b5bc-4956-40c3-8dc5-ab16156fdcad</testCaseGuid>
+   <testCaseGuid>0f38d5bf-41f2-4479-8f29-72eb15cbc18a</testCaseGuid>
 </TestCaseEntity>

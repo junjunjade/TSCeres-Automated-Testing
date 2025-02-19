@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC60_Change Menu Item Quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ec6884d-b1b3-4cb3-9378-d4be8754dbb1</testCaseGuid>
+</TestCaseEntity>

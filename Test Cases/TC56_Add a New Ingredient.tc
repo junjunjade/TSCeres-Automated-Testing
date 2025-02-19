@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC10_Add New Department</name>
+   <name>TC56_Add a New Ingredient</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>aaa1791c-b4ea-40b0-b0b5-134b0fa05422</testCaseGuid>
+   <testCaseGuid>f819f9c4-e19a-4b78-b965-f1ef897341df</testCaseGuid>
 </TestCaseEntity>
