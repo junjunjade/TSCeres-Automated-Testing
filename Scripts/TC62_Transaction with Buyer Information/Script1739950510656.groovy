@@ -27,13 +27,35 @@ Mobile.tap(findTestObject('Object Repository/android.widget.Button - POS'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - BLACK COFFEE'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - PASTA (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - PAYMENT'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - CARBONARA'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - BUYERS INFORMATION'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - LOG OUT'), 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Name'), 'Juan Dela Cruz', 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - VOID'), 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Address'), '122 Espana Blvd.', 0)
+
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - TIN'), '4567865466788', 0)
+
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Business Style'), 'Sample Test', 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - OK'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - PAYMENT LOOKUP'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - CASH'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - 1'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - 1'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - 0'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - SETTLEMENT'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - OK'), 0)
+
+Mobile.delay(5)
 
 Mobile.closeApplication()
 

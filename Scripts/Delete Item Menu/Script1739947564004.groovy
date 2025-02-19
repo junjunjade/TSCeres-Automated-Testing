@@ -23,17 +23,19 @@ Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Userc
 
 Mobile.setEncryptedText(findTestObject('Object Repository/android.widget.EditText - Password'), 'tzH6RvlfSTg=', 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - POS'), 0)
+Mobile.pressBack()
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - BLACK COFFEE'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - POS MAINTENANCE'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - PASTA (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - File Maintenance'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - CARBONARA'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Menu Items'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - LOG OUT'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Buffalo'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - VOID'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - DELETE'), 0)
+
+Mobile.scrollToElement('Object Repository/android.widget.Button - DELETE')
 
 Mobile.closeApplication()
 

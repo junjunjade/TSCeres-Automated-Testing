@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC62_Transaction with Buyer Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65bc3c5c-7002-479a-92ed-02780caf246d</testCaseGuid>
+</TestCaseEntity>
